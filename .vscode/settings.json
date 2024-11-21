@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "string": "cpp",
+        "random": "cpp",
+        "ostream": "cpp",
+        "cstdlib": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "limits": "cpp",
+        "semaphore": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp"
+    }
+}
